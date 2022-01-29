@@ -8,18 +8,17 @@ We made this so new users can also look at the methods used for certain commands
 
 ### Resources
 
-[Invite](https://discord.com/oauth2/authorize?client_id=777813339610939402&scope=bot&permissions=422964289) <br>
-Website under development!
+[Invite](https://discord.com/oauth2/authorize?client_id=777813339610939402&scope=bot&permissions=422964289) • Website: under development!
 
 ### Contributing
 
-Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation or new features, please feel free to make the change. 
-Contact our developers in Discussion or their Discord.
+Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation, bug fixes or new features, please feel free to make changes. 
+Contact our developers in Discussion or their Discord for anything related to the Bot.
 
 ### Developers
 
-Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) [Discord](https://discord.com/users/732137013620244512) [Carrd](https://avnoorgamerz.carrd.co/) <br>
-Insidious | [GitHub](https://github.com/insidiousthedev) [Discord](https://discord.com/users/853865815080960011) [Carrd](https://insidious699.carrd.co/)
+Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) • [Discord](https://discord.com/users/732137013620244512) • [Carrd](https://avnoorgamerz.carrd.co/) <br>
+Insidious | [GitHub](https://github.com/insidiousthedev) • [Discord](https://discord.com/users/853865815080960011) • [Carrd](https://insidious699.carrd.co/)
 
 <br>
 Made with 💖
