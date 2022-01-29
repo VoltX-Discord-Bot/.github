@@ -8,7 +8,7 @@ We made this so new users can also look at the methods used for certain commands
 
 ### Resources
 
-[Invite](https://discord.com/oauth2/authorize?client_id=777813339610939402&scope=bot&permissions=422964289)
+[Invite](https://discord.com/oauth2/authorize?client_id=777813339610939402&scope=bot&permissions=422964289) <br>
 Website under development!
 
 ### Contributing
@@ -18,8 +18,8 @@ Contact our developers in Discussion or their Discord.
 
 ### Developers
 
-Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) [Discord](https://discord.com/users/732137013620244512) [Carrd](https://avnoorgamerz.carrd.co/)
+Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) [Discord](https://discord.com/users/732137013620244512) [Carrd](https://avnoorgamerz.carrd.co/) <br>
 Insidious | [GitHub](https://github.com/insidiousthedev) [Discord](https://discord.com/users/853865815080960011) [Carrd](https://insidious699.carrd.co/)
 
-
+<br>
 Made with 💖
