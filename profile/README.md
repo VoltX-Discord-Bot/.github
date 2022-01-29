@@ -22,5 +22,4 @@ Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) [Discord](https://dis
 Insidious | [GitHub](https://github.com/insidiousthedev) [Discord](https://discord.com/users/853865815080960011) [Carrd](https://insidious699.carrd.co/)
 
 
-                                      *Made with ♥*
-
+Made with 💖
