@@ -17,7 +17,7 @@ Contact our developers in Discussion or their Discord for anything related to th
 
 ### Developers
 
-Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) • [Discord](https://discord.com/users/732137013620244512) • [Carrd](https://avnoorgamerz.carrd.co/) <br>
+Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) - [Discord](https://discord.com/users/732137013620244512) • [Carrd](https://avnoorgamerz.carrd.co/) <br>
 Insidious | [GitHub](https://github.com/insidiousthedev) • [Discord](https://discord.com/users/853865815080960011) • [Carrd](https://insidious699.carrd.co/)
 
 <br>
