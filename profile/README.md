@@ -12,7 +12,7 @@ We made this so new users can also look at the methods used for certain commands
 
 ### Contributing
 
-Contributions to Dude Perfect are always appreciated, whether it be improvements to the documentation, bug fixes or new features, please feel free to make changes. 
+Contributions to VoltX are always appreciated, whether it be improvements to the documentation, bug fixes or new features, please feel free to make changes. 
 Contact our developers in Discussion or their Discord for anything related to the Bot.
 
 ### Developers
