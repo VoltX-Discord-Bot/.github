@@ -5,7 +5,7 @@ Yet Another AIO Discord Bot.
 ## About
 
 VoltX is a Discord bot aimed to be an all-in-one bot, including features like giveaways, moderation, fun, image manipulation, utilities and a whole lot more!
-THe original version of VoltX was closed source, but we are currently rewriting the bot.
+The original version of VoltX was closed source, but we are currently rewriting the bot (and it'll be open source).
 
 ## Contributing
 
