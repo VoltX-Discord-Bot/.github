@@ -1,24 +1,21 @@
-# VoltX 
+# VoltX
 
-### Overview
+Yet Another AIO Discord Bot.
 
-**Volt X** is a multi function bot, you can use for moderation, giveaways, basic needs and mainly its for fun and image generation. 
-This Discord bot can be helpful for anyone who wants to learn how to make a discord.js bot, every command is in right place so it's more easy to read the entire project. 
-We made this so new users can also look at the methods used for certain commands and get some ideas for their Discord bot.
+## About
 
-### Resources
+VoltX is a Discord bot aimed to be an all-in-one bot, including features like giveaways, moderation, fun, image manipulation, utilities and a whole lot more!
+THe original version of VoltX was closed source, but we are currently rewriting the bot.
 
-[Invite](https://discord.com/oauth2/authorize?client_id=777813339610939402&scope=bot&permissions=422964289) • Website: under development!
+## Contributing
 
-### Contributing
+Contributing to VoltX is always welcome! Check out the contribution docs once they're ready to contribute!
 
-Contributions to VoltX are always appreciated, whether it be improvements to the documentation, bug fixes or new features, please feel free to make changes. 
-Contact our developers in Discussion or their Discord for anything related to the Bot.
+## Contributors
 
-### Developers
+- [Avnoor Gamerz](https://github.com/Avnoor-Gamerz)
+- [Insidious](https://github.com/insidiousthedev)
 
-Avnoor Gamerz | [GitHub](https://github.com/Avnoor-Gamerz) • [Discord](https://discord.com/users/732137013620244512) • [Carrd](https://avnoorgamerz.carrd.co/) <br>
-Insidious | [GitHub](https://github.com/insidiousthedev) • [Discord](https://discord.com/users/853865815080960011) • [Carrd](https://insidious699.carrd.co/)
+## Links
 
-<br>
-Made with 💖
+> Coming soon!
